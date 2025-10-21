@@ -45,7 +45,7 @@ com.example.coroutinesdemo/
 
 ## 📸 Screenshot
 
-![App Screenshot](getrandom.png)
+![App Screenshot](getrandom.jpg)
 *Tampilan aplikasi Random Quote Generator*
 
 ## 🎓 Konsep yang Dipelajari
