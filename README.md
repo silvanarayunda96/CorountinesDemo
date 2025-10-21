@@ -34,7 +34,7 @@ com.example.coroutinesdemo/
 
 1. Clone repository ini:
 ```bash
-   git clone https://github.com/USERNAME/CoroutinesDemo.git
+   git clone https://github.com/silvanarayunda96/CoroutinesDemo.git
 ```
 
 2. Buka project di Android Studio
@@ -45,7 +45,7 @@ com.example.coroutinesdemo/
 
 ## 📸 Screenshot
 
-![App Screenshot](screenshot.png)
+![App Screenshot](getrandom.png)
 *Tampilan aplikasi Random Quote Generator*
 
 ## 🎓 Konsep yang Dipelajari
